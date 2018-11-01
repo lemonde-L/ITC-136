@@ -2,7 +2,7 @@
 
 echo "hello ITC-136"
 
-echo "Edited in github"
+echo "edited in github"
 
 echo "This is your current working directory:"
 pwd
