@@ -1,7 +1,9 @@
 #!/bin/bash
 
 echo "hello ITC-136"
+
 echo "Edited in github"
+
 echo "This is your current working directory:"
 pwd
 
